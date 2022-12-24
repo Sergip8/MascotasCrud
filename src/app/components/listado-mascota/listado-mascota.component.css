@@ -1,0 +1,27 @@
+
+table {
+    background-color: #7f7780;
+width: 100%;
+}
+
+.mat-form-field{
+    font-size: 14px;
+    width: 100%;
+}
+.delete{
+     cursor: pointer;
+     color: rgb(170, 71, 0)
+}
+.edit{
+    cursor: pointer;
+     color: rgb(210, 227, 19)
+}
+.search{
+    cursor: pointer;
+     color: rgb(6, 150, 194)
+}
+
+button{
+    font-size: 10px;
+    
+}
